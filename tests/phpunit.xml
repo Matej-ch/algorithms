@@ -1,0 +1,10 @@
+<phpunit bootstrap="./bootstrap.php">
+    <filter>
+        <whitelist>
+            <directory>/src</directory>
+        </whitelist>
+    </filter>
+    <testsuite name="unit">
+        <directory  phpVersion="7.4" phpVersionOperator=">=">./</directory>
+    </testsuite>
+</phpunit>
