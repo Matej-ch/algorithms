@@ -8,7 +8,7 @@ class BinarySearch
 {
     private $key;
 
-    public function __construct($key)
+    private function __construct($key)
     {
         $this->key = $key;
     }
