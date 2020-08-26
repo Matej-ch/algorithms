@@ -17,3 +17,5 @@ Collection of different algorithms programed with TDD
 :heavy_check_mark: Selection sort :heavy_check_mark:
 
 :heavy_check_mark: Sort characters by frequency :heavy_check_mark:
+
+:heavy_check_mark: Hanoi tower solver :heavy_check_mark:
